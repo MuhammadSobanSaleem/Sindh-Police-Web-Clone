@@ -1,5 +1,6 @@
 import React from 'react';
-import DGIP from '../assets/DGIP.jpg'; // Replace with actual image path
+import { Button } from './ui/button';
+import DGIP from '../assets/DGIP.jpg';
 
 const MessageSection = () => {
   return (
@@ -47,9 +48,9 @@ const MessageSection = () => {
             </h2>
           </div>
           
-          <button className="absolute -bottom-5 right-0 bg-[#e74c3c] hover:bg-[#c0392b] text-white font-semibold px-9 py-3 rounded-md shadow-lg transition-colors duration-300 text-lg">
+          <Button variant="readmore" className="absolute -bottom-5 right-0 px-9 py-3">
             Read More
-          </button>
+          </Button>
         </div>
       </div>
     </div>

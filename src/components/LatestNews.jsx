@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { ChevronLeft, ChevronRight } from 'lucide-react';
+import { Button } from './ui/button';
 import rulesImage from '../assets/rules.jpg';
 import newsImg1 from '../assets/NewsImg1.jpg';
 import newsImg2 from '../assets/1377489503_69098b812ef98.jpeg';
@@ -55,13 +56,20 @@ const LatestNews = () => {
     },
   ];
 
+  const itemsPerPage = 3;
+  const totalPages = Math.ceil(newsItems.length / itemsPerPage);
+
   const nextSlide = () => {
-    setCurrentSlide((prev) => (prev + 1) % newsItems.length);
+    setCurrentSlide((prev) => (prev + 1) % totalPages);
   };
 
   const prevSlide = () => {
-    setCurrentSlide((prev) => (prev - 1 + newsItems.length) % newsItems.length);
+    setCurrentSlide((prev) => (prev - 1 + totalPages) % totalPages);
   };
+
+  // Get current items to display
+  const startIndex = currentSlide * itemsPerPage;
+  const currentItems = newsItems.slice(startIndex, startIndex + itemsPerPage);
 
   return (
     <div className="bg-gradient-to-r from-gray-200 via-gray-300 to-gray-200 py-16 px-5">
@@ -90,7 +98,7 @@ const LatestNews = () => {
 
           {/* News Grid */}
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 px-12">
-            {newsItems.map((item, index) => (
+            {currentItems.map((item) => (
               <div
                 key={item.id}
                 className="bg-white rounded-lg shadow-lg overflow-hidden hover:shadow-2xl transition-shadow duration-300"
@@ -125,9 +133,9 @@ const LatestNews = () => {
                     {item.title}
                   </h3>
 
-                  <button className="w-full bg-pink-100 hover:bg-pink-200 text-red-600 font-semibold py-3 rounded-md transition-colors duration-300 mb-4">
+                  <Button variant="explore" className="w-full py-3 mb-4">
                     Click to explore more
-                  </button>
+                  </Button>
 
                   <div className="text-gray-600 text-sm">
                     {item.date}
