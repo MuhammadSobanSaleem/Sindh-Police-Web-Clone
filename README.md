@@ -1,16 +1,71 @@
-# React + Vite
+# 🚔 Sindh Police Web Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive **Sindh Police website clone** built using **React**, **Vite**, and **Tailwind CSS**, featuring smooth animations, reusable UI components, and clean structure inspired by real-world web applications.
 
-Currently, two official plugins are available:
+🔗 **Live Demo:** [sindh-police-web-clone.vercel.app](https://sindh-police-web-clone.vercel.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## ⚙️ Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* **Vite + React** — Fast, modern frontend setup
+* **Tailwind CSS** — Utility-first responsive styling
+* **Shadcn/UI** — For polished and customizable components
+* **Custom Shadcn Button Variant** — Clean and reusable button styles
+* **JavaScript (ES6+)** — Dynamic behavior and logic
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📁 Folder Structure
+
+```
+.
+├── index.html
+├── jsconfig.json
+├── package.json
+├── package-lock.json
+├── vite.config.js
+├── README.md
+├── /src
+│   ├── assets/
+│   ├── components/
+│   ├── pages/
+│   ├── styles/
+│   └── main.jsx
+```
+
+---
+
+## ✨ Features
+
+* Fully responsive design
+* Hero section with auto image slider
+* Modern layout using Tailwind
+* Optimized for performance with Vite
+* Consistent and clean UI components
+
+---
+
+## 🚀 Getting Started
+
+```bash
+# Clone this repo
+git clone https://github.com/MuhammadSobanSaleem/Sindh-Police-Web-Clone.git
+
+# Navigate to project
+cd Sindh-Police-Web-Clone
+
+# Install dependencies
+npm install
+
+# Run locally
+npm run dev
+```
+
+---
+
+## 🧑‍💻 Author
+
+**Muhammad Soban Saleem**
+MERN Stack Developer | Modern UI Enthusiast
+🔗 [LinkedIn](https://www.linkedin.com/in/soban-saleem333)
