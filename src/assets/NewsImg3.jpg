@@ -1,0 +1,550 @@
+<!DOCTYPE html>
+<!-- saved from url=(0037)https://sindhpolice.gov.pk/khitraffic -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	
+  
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="Vision By IGP Sindh Mr. Ghulam Nabi Memon
+Prevention of crime, maintenance of law and orders and redressal of public grievances is the foremost priority of Police. Police must ensure that the registration of FIR is swift and hassle free. Negligence, carelessness and unempathetic behavior will not be tolerated at any cost.">
+	<meta name="author" content="Sindh Police - Proud To Serve">
+	<title>SINDH POLICE - Proud To Serve</title>
+	<link rel="icon" href="https://sindhpolice.gov.pk/front_end/logos/sp_logo.png" type="image/png">
+	<link rel="canonical" href="https://getbootstrap.com/docs/5.0/examples/carousel/">
+  
+  
+	<link rel="stylesheet" href="./NewsImg3_files/bootstrap.min.css">
+  <link href="./NewsImg3_files/bootstrap-icons.css" rel="stylesheet">
+	<!-- <link rel="stylesheet" href="https://sindhpolice.gov.pk/front_end/css/style_sk.css">
+	<link rel="stylesheet" href="https://sindhpolice.gov.pk/front_end/css/style_ahmed.css"> -->
+	<link rel="stylesheet" href="./NewsImg3_files/carousel.css">
+	
+	<link href="./NewsImg3_files/aos.css" rel="stylesheet">
+	<link href="./NewsImg3_files/glightbox.min.css" rel="stylesheet">
+	<link href="./NewsImg3_files/swiper-bundle.min.css" rel="stylesheet">
+	<link href="./NewsImg3_files/main.css" rel="stylesheet">
+	<link href="./NewsImg3_files/fabrand.css" rel="stylesheet">
+	
+	<script src="./NewsImg3_files/a076d05399.js.download"></script><!-- Font Awesome -->
+	<script src="./NewsImg3_files/0c82330056.js.download" crossorigin="anonymous"></script><!-- Font Awesome Kit -->
+	<!-- Animate.css -->
+	<!-- <link rel="stylesheet" href="https://sindhpolice.gov.pk/front_end/css/animate.min.css"> -->
+	<style>
+    .carousel-item{
+      background-color:transparent !important;
+    }
+
+	@media (min-width: 844px) {
+  .carousel-item {height: fit-content ;}
+}
+  </style>
+
+
+
+
+	 <!-- Favicons -->
+	 <link href="https://sindhpolice.gov.pk/assets/img/favicon.png" rel="icon">
+  <link href="https://sindhpolice.gov.pk/assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Fonts -->
+  <link href="https://fonts.googleapis.com/" rel="preconnect">
+  <link href="https://fonts.gstatic.com/" rel="preconnect" crossorigin="">
+  <link href="./NewsImg3_files/css2" rel="stylesheet">
+<style>
+  .large-text{font-size: 25px !important;}
+</style>
+	    <link rel="canonical" href="https://getbootstrap.com/docs/5.0/examples/carousel/">
+    
+<script type="text/javascript" class="flasher-js">(function() {    var rootScript = 'https://cdn.jsdelivr.net/npm/@flasher/flasher@1.3.2/dist/flasher.min.js';    var FLASHER_FLASH_BAG_PLACE_HOLDER = {};    var options = mergeOptions([], FLASHER_FLASH_BAG_PLACE_HOLDER);    function mergeOptions(first, second) {        return {            context: merge(first.context || {}, second.context || {}),            envelopes: merge(first.envelopes || [], second.envelopes || []),            options: merge(first.options || {}, second.options || {}),            scripts: merge(first.scripts || [], second.scripts || []),            styles: merge(first.styles || [], second.styles || []),        };    }    function merge(first, second) {        if (Array.isArray(first) && Array.isArray(second)) {            return first.concat(second).filter(function(item, index, array) {                return array.indexOf(item) === index;            });        }        return Object.assign({}, first, second);    }    function renderOptions(options) {        if(!window.hasOwnProperty('flasher')) {            console.error('Flasher is not loaded');            return;        }        requestAnimationFrame(function () {            window.flasher.render(options);        });    }    function render(options) {        if ('loading' !== document.readyState) {            renderOptions(options);            return;        }        document.addEventListener('DOMContentLoaded', function() {            renderOptions(options);        });    }    if (1 === document.querySelectorAll('script.flasher-js').length) {        document.addEventListener('flasher:render', function (event) {            render(event.detail);        });            }    if (window.hasOwnProperty('flasher') || !rootScript || document.querySelector('script[src="' + rootScript + '"]')) {        render(options);    } else {        var tag = document.createElement('script');        tag.setAttribute('src', rootScript);        tag.setAttribute('type', 'text/javascript');        tag.onload = function () {            render(options);        };        document.head.appendChild(tag);    }})();</script><script src="./NewsImg3_files/flasher.min.js.download" type="text/javascript"></script>
+</head>
+
+<body class="index-page scrolled" data-aos-easing="ease-in-out" data-aos-duration="600" data-aos-delay="0"> 
+
+	
+		 
+
+
+<script>
+    function toggleMenu() {
+        const menu = document.getElementById('mainNavbar');
+        menu.style.display = (menu.style.display === 'flex') ? 'none' : 'flex';
+    }
+</script>	<main class="main">
+   <div id="myCarousel" class="carousel slide carousel-fade " data-bs-ride="carousel">
+    <div class="carousel-indicators">
+                    <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="0" class="" aria-label="Slide 1"></button>
+                    <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="1" class="" aria-label="Slide 2"></button>
+                    <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="2" class="" aria-label="Slide 3"></button>
+                    <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="3" class="active" aria-label="Slide 4" aria-current="true"></button>
+                    <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="4" class="" aria-label="Slide 5"></button>
+                    <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="5" class="" aria-label="Slide 6"></button>
+                    <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="6" class="" aria-label="Slide 7"></button>
+                    <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="7" class="" aria-label="Slide 8"></button>
+                    <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="8" class="" aria-label="Slide 9"></button>
+                    <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="9" class="" aria-label="Slide 10"></button>
+                    <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="10" class="" aria-label="Slide 11"></button>
+            </div>
+    <div class="carousel-inner aos-init aos-animate" data-aos="fade-in" data-aos-delay="50">
+                    <div class="carousel-item">
+                <img src="./NewsImg3_files/ajP3LenL1l32FbjFgog6CeBV2GyqhCn53V3vWx8U.jpg" style="height: 100vh;" class="d-block w-100" alt="DIGP Traffic meeting with All SPs DSPs &amp; SOs" loading="lazy">
+            </div>
+                    <div class="carousel-item">
+                <img src="./NewsImg3_files/p57k6WIz4hq0CXaWWthg4vmMeWeEqMN94U3aE380.jpg" style="height: 100vh;" class="d-block w-100" alt="Public Help and First Aid" loading="lazy">
+            </div>
+                    <div class="carousel-item">
+                <img src="./NewsImg3_files/0wqAKKEpPKf2wk44CcxaHU6LH8q9l7J7SQfxBjMI.jpg" style="height: 100vh;" class="d-block w-100" alt="Traffic vehicle" loading="lazy">
+            </div>
+                    <div class="carousel-item active">
+                <img src="./NewsImg3_files/rwt8Yng0yY3X97mS3h13LPOoD5isoEnJavMv3oT4.jpg" style="height: 100vh;" class="d-block w-100" alt="Traffic Awareness Program" loading="lazy">
+            </div>
+                    <div class="carousel-item">
+                <img src="./NewsImg3_files/dqzbG0Dn7JGqr8A3XWWFdimG8GeJdB1HRTgJleoi.jpg" style="height: 100vh;" class="d-block w-100" alt="DIGP Traffic meeting with All SPs DSPs &amp; SOs" loading="lazy">
+            </div>
+                    <div class="carousel-item">
+                <img src="./NewsImg3_files/WJUa4Zjnh7yQVH0tqTorw2mWZuroH82SBgFIAdLY.jpg" style="height: 100vh;" class="d-block w-100" alt="DIGP Traffic Visit 1915 CPO" loading="lazy">
+            </div>
+                    <div class="carousel-item">
+                <img src="./NewsImg3_files/zwPjBTYGTmjYqxejVELlcPkaRkqH4HCQu4uiKklP.png" style="height: 100vh;" class="d-block w-100" alt="Additional IGP Karachi Javed Alam Odho visted the DIGP Traffic Office Karachi. 2025" loading="lazy">
+            </div>
+                    <div class="carousel-item">
+                <img src="./NewsImg3_files/T3JGI688AkjLIpnaPRFivj0XPFp1eeUv2FnqWHBn.jpg" style="height: 100vh;" class="d-block w-100" alt="الوداعی افطار ڈنر" loading="lazy">
+            </div>
+                    <div class="carousel-item">
+                <img src="./NewsImg3_files/crZSfPpvEpDKw84chOfdmglTS754ZNVd5MgcuF8X.jpg" style="height: 100vh;" class="d-block w-100" alt="Iftar Dinner" loading="lazy">
+            </div>
+                    <div class="carousel-item">
+                <img src="./NewsImg3_files/cSEdA5O5pagkFCyXJ5BTxdWnLCVTHktJYl5EgxVg.png" style="height: 100vh;" class="d-block w-100" alt="Meeting" loading="lazy">
+            </div>
+                    <div class="carousel-item">
+                <img src="./NewsImg3_files/StwgJ9UuGfBHweAYp4qDETVfel4vwBIJ1CyPDuMr.jpg" style="height: 100vh;" class="d-block w-100" alt="Traffic Awareness" loading="lazy">
+            </div>
+            </div>
+</div>
+
+<div class="container-fluid">
+	<div class="row">
+		<div class="col-md-12 text-center services  mb-4">
+			
+           					
+
+		</div>
+	</div>
+</div>
+
+ 
+    <div class="container-fluid" id="container_bg"> <!-- Main Container for the background picture Starts-->
+    <!--       -->
+    <!-- welcome district -->
+   <section id="recent-posts" class="about section p-0">
+  <div class="container-fluid pb-4">
+    <div class="container pt-5 pb-5">
+     
+                    <div class="row justify-content-center">
+          <div class="col-md-8 align-self-center aos-init aos-animate" data-aos="fade-up">
+          <h2 class="headings_sections ">Welcome to Traffic Police Karachi </h2>
+          <div class="large-text text-center">The Sindh Police in pursuit of its mission, believes in providing quality service with the highest possible degree of excellence, based upon the principles</div>
+        
+
+        </div>
+      </div>
+          </div>
+  </div>
+</section> 
+    <!--// welcome district -->
+    <section id="about" class="about section p-0">
+<div class="container-fluid text-justify container_igp_message ">
+    <div class="container">
+        <div class="row">
+            
+            <!-- <div class="col-md-4 text-white p-4">
+                  <img src="images/igp_pics/igp_pic.jpg" id="igp_pic" alt="IGP Sindh Picture" class="img-thumbnail">
+                </div> -->
+            <div class="col-md-12 text-white pb-5 pt-5 igp_message aos-init aos-animate" data-aos="zoom-out" data-aos-delay="100">
+                                <img src="./NewsImg3_files/QvhC2c6n41gyfaeBsJI2BGEifRIrE1mgUuSgJsFA.jpg" id="igp_pic" alt="IGP Sindh Picture" class="img-thumbnail float-start me-5" loading="lazy">
+                <h3 class="font-weight-bold mt-4 title" id="heading_igp_message">Message Of DIGP Syed Peer Muhammad Shah, PSP, QPM, &amp; Bar, PPM, T.st
+                </h3>
+                <p class="igp_message text-dark"> </p><p><strong>To the General Public and Police Officials,</strong><br>
+As the DIGP Traffic Karachi, I extend my warm regards to all citizens and dedicated police officials of our vibrant city. Our collective goal is to create a safer and more efficient traffic system that benefits everyone. Achieving this requires cooperation, adherence to traffic laws, and a shared commitment to improving our city's roads.</p>
+
+<p><strong>To the General Public:</strong><br>
+Your role is crucial in making Karachi’s roads safer. By following traffic rules, driving responsibly, and being considerate of other road users, you contribute significantly to reducing accidents and traffic congestion. Simple actions like obeying speed limits, using seat belts, and avoiding mobile phone use while driving can make a substantial difference. Remember, road safety is a shared responsibility, and your cooperation is essential for the well-being of our community.</p>
+
+<p><strong>To the Police Officials:</strong>...
+
+                </p>
+                 <a href="https://sindhpolice.gov.pk/khitraffic/PSP-Message/eyJpdiI6IkxQdUtMbHJlRU00YWU2NndsZ1NNL3c9PSIsInZhbHVlIjoiSTBzbVpuQ2t5aHFBd2hCTy9rUGlPZz09IiwibWFjIjoiNzQwZjE4YzdhYmEzNGFmNzg2ZjQzYTFiMmI2OGUwZjA5ODY1M2FjMzY2M2NlZjNjNTVhNDM3M2QzM2VmMzY0NyIsInRhZyI6IiJ9/detail" class="btn btn-danger  text-light" id="btn_igp_message">Read More</a>
+                        </div>
+        </div>
+    </div>
+</div>
+</section>     <div class="container mt-5 aos-init aos-animate" data-aos="zoom-in" data-aos-delay="100">
+	<div class="row">
+		<h2 class="headings_sections">- QUICK LINKS -</h2>
+		
+		<!-- card starts -->
+		<div class="col-md-3">
+		<a href="https://sindhpolice.gov.pk/khitraffic/press-release" class="quick_links_hyperlinks">
+				<div class="card card_quick_links mt-3" style="width: 100%;">
+					<div class="card-body">
+						<h5 class="card-title text-center">
+							<img src="./NewsImg3_files/orders_notification_icon.png" alt="seniority List Icon" class="quick_links_icons" loading="lazy">
+							<img src="./NewsImg3_files/sheild_icon.png" alt="Sheild Icon" class="quick_links_sheild_icon mb-3" loading="lazy"><br>
+							Press Release
+						</h5>
+					</div>
+				</div>
+			</a>
+		</div>
+		<!-- card Ends -->
+		<!-- card starts -->
+		<div class="col-md-3">
+			<a href="https://sindhpolice.gov.pk/khitraffic/tenders" class="quick_links_hyperlinks">
+				<div class="card card_quick_links mt-3" style="width: 100%;">
+					<div class="card-body">
+						<h5 class="card-title text-center">
+							<img src="./NewsImg3_files/orders_notification_icon.png" alt="seniority List Icon" class="quick_links_icons" loading="lazy">
+							<img src="./NewsImg3_files/sheild_icon.png" alt="Sheild Icon" class="quick_links_sheild_icon mb-3" loading="lazy"><br>
+							Tenders
+						</h5>
+					</div>
+				</div>
+			</a>
+		</div>
+		<!-- card Ends -->
+		<!-- card starts -->
+		<div class="col-md-3">
+	<a href="https://sindhpolice.gov.pk/khitraffic/transfers" class="quick_links_hyperlinks">
+				<div class="card card_quick_links mt-3" style="width: 100%;">
+					<div class="card-body">
+						<h5 class="card-title text-center">
+							<img src="./NewsImg3_files/orders_notification_icon.png" alt="seniority List Icon" class="quick_links_icons">
+							<img src="./NewsImg3_files/sheild_icon.png" alt="Sheild Icon" class="quick_links_sheild_icon mb-3"><br>
+							Transfer Posting
+						</h5>
+					</div>
+				</div>
+			</a>
+		</div>
+		<!-- card Ends -->
+		<!-- card starts -->
+		<div class="col-md-3">
+	<a href="https://sindhpolice.gov.pk/khitraffic/gallery" class="quick_links_hyperlinks">
+				<div class="card card_quick_links mt-3" style="width: 100%;">
+					<div class="card-body">
+						<h5 class="card-title text-center">
+							<img src="./NewsImg3_files/orders_notification_icon.png" alt="seniority List Icon" class="quick_links_icons">
+							<img src="./NewsImg3_files/sheild_icon.png" alt="Sheild Icon" class="quick_links_sheild_icon mb-3"><br>
+							Gallery
+						</h5>
+					</div>
+				</div>
+			</a>
+		</div>
+		<!-- card Ends -->
+		
+	</div>
+</div>    <section id="recent-posts" class="recent-posts section p-0">
+  <div class="container-fluid mt-5 pb-4" id="container_gallery">
+    <div class="container pt-5 pb-5">
+      <div class="row">
+        <div class="col-md-12 aos-init aos-animate" data-aos="fade-up">
+          <h2 class="headings_sections text-uppercase">- Latest News &amp; Events -</h2>
+
+
+
+          <div id="carouselExampleControls" class="carousel slide row row-cols-1 row-cols-md-3 gallery-scroll" data-bs-ride="carousel">
+            <div class="carousel-inner">
+              <div class="carousel-item">
+                <div class="cards-wrapper  justify-content-center">
+                 
+                                                                        <!-- Gallery Card start -->
+                  <div class="card card-gallery h-100 mx-2 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+                    <div class="image-wrapper">
+                      <img src="./NewsImg3_files/1838019905_69044a0998354.jpg" class="card-img-top gallery_card_image" alt="..." loading="lazy">
+                    </div>
+                    <div class="card-body">
+                                          <h5 class="card-title text-uppercase ur"> ای ٹکٹنگ کے حوالے سے شکایات کے ازالے کے لئے کراچی شہر کے مخت...</h5>
+                      <a href="https://sindhpolice.gov.pk/khitraffic/gallery" class="btn btn-gallery-cards mx-auto">Click to explore more</a>
+                    </div>
+                    <div class="card-footer">
+                      <small class="text-body-secondary">2025-10-31 10:32:57</small>
+                    </div>
+                  </div>
+                  <!-- Gallery Card Ends -->
+                                                                              
+                       
+                       <div class="card card-gallery h-100 mx-2 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+                       <div class="image-wrapper m-0">
+                             
+                             
+                              <video width="100%" height="100%" controls="" poster="https://sindhpolice.gov.pk/front_end/logos/sp_logo.png">
+                                  <source src="https://sindhpolice.gov.pk/storage/gallery/2004759805_69006662889e6.mp4" type="video/mp4">
+                                  Your browser does not support the video tag.
+                              </video>
+
+                              </div>
+                         <div class="card-body">
+                                                    <h5 class="card-title text-uppercase ur"> نظام کے ذریعے اب چالان ہوگا ثبوت کے ساتھ اور پہنچے گا آپ کے...</h5>
+                           <a href="https://sindhpolice.gov.pk/khitraffic/gallery" class="btn btn-gallery-cards mx-auto">Click to explore more</a>
+                         </div>
+                         <div class="card-footer">
+                           <small class="text-body-secondary">2025-10-28 11:44:50</small>
+                         </div>
+                       </div>
+                                                                                   
+                       
+                       <div class="card card-gallery h-100 mx-2 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+                       <div class="image-wrapper m-0">
+                             
+                             
+                              <video width="100%" height="100%" controls="" poster="https://sindhpolice.gov.pk/front_end/logos/sp_logo.png">
+                                  <source src="https://sindhpolice.gov.pk/storage/gallery/347031783_68ff0453285b1.mp4" type="video/mp4">
+                                  Your browser does not support the video tag.
+                              </video>
+
+                              </div>
+                         <div class="card-body">
+                                                    <h5 class="card-title text-uppercase ur"> نظام کے ذریعے اب چالان ہوگا ثبوت کے ساتھ اور پہنچے گا آپ کے...</h5>
+                           <a href="https://sindhpolice.gov.pk/khitraffic/gallery" class="btn btn-gallery-cards mx-auto">Click to explore more</a>
+                         </div>
+                         <div class="card-footer">
+                           <small class="text-body-secondary">2025-10-27 10:34:11</small>
+                         </div>
+                       </div>
+                                                                            </div>
+              </div>
+              <div class="carousel-item active">
+                <div class="cards-wrapper  justify-content-center">
+                                                                      <!-- Gallery Card start -->
+                  <div class="card card-gallery h-100 mx-2 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+                    <div class="image-wrapper">
+                      <img src="./NewsImg3_files/936628030_690a2aff74062.jpeg" class="card-img-top gallery_card_image" alt="press release" loading="lazy">
+                    </div>
+                    <div class="card-body">
+                                          <h5 class="card-title text-uppercase ur">ڈی آئی جی پی ٹریفک کراچی کی زیرِ صدارت دفترِ ہٰذا میں ایک اہ...</h5>
+                      <a href="https://sindhpolice.gov.pk/khitraffic/press-detail/eyJpdiI6Ik83M0J3ZmlpV0d1S3JTdlBiR2xseHc9PSIsInZhbHVlIjoiNHo0bWZFYTRIODdLRmo0Wng2ZnkwZz09IiwibWFjIjoiOTlmMTY1YmYxMTE5NWNmZTZkNzA2ZDVjNGYwZDY2YTNlZjRjMmFmYWQwZDhkMWY0ZDQ1ODg4ZTVmYzkxMjA5YyIsInRhZyI6IiJ9/detail" class="btn btn-gallery-cards mx-auto">Click to explore more</a>
+                    </div>
+                    <div class="card-footer">
+                      <small class="text-body-secondary">2025-11-04 21:34:07</small>
+                    </div>
+                  </div>
+                  <!-- Gallery Card Ends -->
+                                                                         <!-- Gallery Card start -->
+                  <div class="card card-gallery h-100 mx-2 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+                    <div class="image-wrapper">
+                      <img src="./NewsImg3_files/2056683889_6909900d6c0df.jpg" class="card-img-top gallery_card_image" alt="press release" loading="lazy">
+                    </div>
+                    <div class="card-body">
+                                          <h5 class="card-title text-uppercase ur">شہرِ قائد میں ای چالان نظام کے نفاذ کے بعد  مؤثر کارروائیاں</h5>
+                      <a href="https://sindhpolice.gov.pk/khitraffic/press-detail/eyJpdiI6ImNaSGhZdHoxODhMRGdoTmJpblM1emc9PSIsInZhbHVlIjoiT292Tnd2cUtxamNSOFVsWGo1SlgwUT09IiwibWFjIjoiMmNkY2RhMDUyZTZjNmRiZDY2NjQ1ZjlhMDZhNWExZTc1YzAxZWE2NmQzOWFjOTg2YzM1MDI4YzkyM2M5ZDAxZCIsInRhZyI6IiJ9/detail" class="btn btn-gallery-cards mx-auto">Click to explore more</a>
+                    </div>
+                    <div class="card-footer">
+                      <small class="text-body-secondary">2025-11-04 10:33:01</small>
+                    </div>
+                  </div>
+                  <!-- Gallery Card Ends -->
+                                                                         <!-- Gallery Card start -->
+                  <div class="card card-gallery h-100 mx-2 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+                    <div class="image-wrapper">
+                      <img src="./NewsImg3_files/1377489503_69098b812ef98.jpeg" class="card-img-top gallery_card_image" alt="press release" loading="lazy">
+                    </div>
+                    <div class="card-body">
+                                          <h5 class="card-title text-uppercase ur">تمام شہریوں کو مطلع کیا جاتا ہے کہ آپ سندھ پولیس کی آفیشل وی...</h5>
+                      <a href="https://sindhpolice.gov.pk/khitraffic/press-detail/eyJpdiI6ImJXS3dsdGhuZEViNENNZjc4RGdiWmc9PSIsInZhbHVlIjoiQmtITnBRWWpmMzREV1dpckd0UDZoUT09IiwibWFjIjoiZjg4MjQ1NmExZDdkN2Q1NDFhODc1YWY3NWRlOWZmOTNiZjE0MzVmYzMyNzhjZDQ3Y2YwNjQ3NmQ3YzhjMGY0YyIsInRhZyI6IiJ9/detail" class="btn btn-gallery-cards mx-auto">Click to explore more</a>
+                    </div>
+                    <div class="card-footer">
+                      <small class="text-body-secondary">2025-11-04 10:13:37</small>
+                    </div>
+                  </div>
+                  <!-- Gallery Card Ends -->
+                                                                       </div>
+              </div>
+
+            </div>
+            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="visually-hidden">Previous</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="visually-hidden">Next</span>
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>  
+    </div> <!-- Main Container for the background picture ends-->
+</main>
+
+		<!-- Wrap the rest of the page in another container to center all the content. -->
+
+	
+        <div class="footer_line"></div>
+<footer class="container-fluid container_footer">
+	
+	<button type="button" class="btn btn-danger btn-floating btn-lg" id="btn-back-to-top">
+  <i class="fas fa-arrow-up"></i>
+</button>
+	<div class="container pt-5 pb-2">
+		<div class="row">
+			<div class="col-md-3" style="text-align: center;">
+					<img src="./NewsImg3_files/sp_white_logo.png" height="100" alt="">
+					<h3 class="text-white"><b>SINDH POLICE</b></h3>
+					<p class="text-white hr-lines" style="font-weight: 600;"> PROUD TO SERVE </p>
+			</div>
+			<div class="col-md-6" style="text-align: center;">
+				<!-- Social Media Circles Starts -->
+														<div class="sm-circles">
+							<a href="http://www.youtube.com/@Karachitrafficpolice-r1b" target="_blank">	<i class="mt-2 fa-brands "></i></a>
+							</div>
+			
+										<div class="sm-circles">
+							<a href="http://www.youtube.com/@Karachitrafficpolice-r1b" target="_blank">	<i class="mt-2 fa-brands "></i></a>
+							</div>
+			
+										<div class="sm-circles">
+							<a href="http://www.youtube.com/@Karachitrafficpolice-r1b" target="_blank">	<i class="mt-2 fa-brands "></i></a>
+							</div>
+			
+										<div class="sm-circles">
+							<a href="http://www.youtube.com/@Karachitrafficpolice-r1b" target="_blank">	<i class="mt-2 fa-brands "></i></a>
+							</div>
+			
+										<div class="sm-circles">
+							<a href="http://www.youtube.com/@Karachitrafficpolice-r1b" target="_blank">	<i class="mt-2 fa-brands "></i></a>
+							</div>
+			
+										<div class="sm-circles">
+							<a href="https://www.tiktok.com/@karachitrafficpolice?_t=8oXOANidMAL&amp;_r=1" target="_blank">	<i class="mt-2 fa-brands fa-tiktok text-primary "></i></a>
+							</div>
+			
+										<div class="sm-circles">
+							<a href="https://www.instagram.com/karachitrafficpoliceofficial?igsh=MWo1dzNzMWlpY3k0bw==" target="_blank">	<i class="mt-2 fa-brands fa-instagram text-secondary "></i></a>
+							</div>
+			
+										<div class="sm-circles">
+							<a href="https://x.com/Khitrafficpol?s=09" target="_blank">	<i class="mt-2 fa-brands fa-x-twitter text-dark "></i></a>
+							</div>
+			
+										<div class="sm-circles">
+							<a href="https://www.facebook.com/karachitrafficpoliceofficial?mibextid=ZbWKwL" target="_blank">	<i class="mt-2 fa-brands fa-facebook-f "></i></a>
+							</div>
+			
+														
+				<!-- Social Media Circles Ends -->
+
+				<!-- Navigation Menu Starts -->
+				<div class="container-fluid">
+					<!-- <center> -->
+					<div class="nav-menu-footer mt-3">
+							<a href="https://sindhpolice.gov.pk/">Go to Main Website </a>
+							<a href="https://sindhpolice.gov.pk/khitraffic">Home</a>
+							<a href="https://sindhpolice.gov.pk/khitraffic/about-us">About Us</a>
+							<a href="https://sindhpolice.gov.pk/khitraffic/gallery">Galery</a>
+							<a href="https://sindhpolice.gov.pk/khitraffic/contact-us">Contact Us</a>
+						</div>
+						<div class="nav-menu-footer-second mt-2 mb-2">
+							<a href="https://sindhpolice.gov.pk/khitraffic/welfare-page">Sindh Police Welfare</a>
+							<a href="https://dls.gos.pk/online-verification.html">Driving License Branch</a>
+							
+							<a href="https://prvs.sindhpolice.gov.pk/">Online Character Certificate</a>
+						</div>
+					<!-- </center> -->
+
+					<!-- Social Media Circles Starts -->
+				
+					<div class="sm-circles">
+					<a href="https://www.facebook.com/sindhpolicedmc" target="_blank">	<i class="mt-2 fa-brands fa-facebook-f"></i></a>
+					<span class="hover-text"> اردو</span>
+					</div>
+					<div class="sm-circles">
+					<a href="https://www.facebook.com/profile.php?id=61552249089793" target="_blank">	<i class="mt-2 fa-brands fa-facebook-f"></i></a>
+					<span class="hover-text">Page 2</span>
+					</div>
+					<div class="sm-circles">
+					<a href="https://www.facebook.com/profile.php?id=61558826996631" target="_blank">	<i class="mt-2 fa-brands fa-facebook-f"></i></a>
+					<span class="hover-text">سنڌي</span>
+					</div>
+					
+					<div class="sm-circles">
+					<a href="https://x.com/sindhpolicedmc" target="_blank"><i class="mt-2 fa-brands fa-x-twitter text-dark"></i></a>
+					</div>
+					<!-- <div class="sm-circles">
+					<a href="https://x.com/ImranQu40070348" target="_blank"><i class="mt-2 fa-brands fa-x-twitter text-dark"></i></a>
+					</div> -->
+					<div class="sm-circles">
+					<a href="https://www.instagram.com/policesindh/" target="_blank"><i class="mt-2 fa-brands fa-instagram text-secondary"></i></a>
+					</div>
+					<!-- <div class="sm-circles">
+					<a href="https://www.instagram.com/imranqureshipsp?igsh=MTdmbjlnZnRIaWI3eQ%3D%" target="_blank"><i class="mt-2 fa-brands fa-instagram text-secondary"></i></a>
+					</div> -->
+					<div class="sm-circles">
+					<a href="https://www.linkedin.com/company/sindh-police-digital-media" target="_blank"><i class="mt-2 fa-brands fa-linkedin-in text-primary"></i></a>
+					</div>
+					<div class="sm-circles">
+					<a href="https://www.youtube.com/c/sindhpolicedmc" target="_blank"><i class="mt-2 fa-brands fa-youtube text-danger"></i></a>
+					</div>
+					<!-- <div class="sm-circles">
+					<a href="https://www.youtube.com/@imranqureshipsp?si=iwoR8A77jxPRbEwa" target="_blank"><i class="mt-2 fa-brands fa-youtube text-danger"></i></a>
+					</div> -->
+					<div class="sm-circles">
+					<a href="https://www.tiktok.com/@sindhpolicedmc" target="_blank"><i class="mt-2 fa-brands fa-tiktok text-dark"></i></a>
+					</div>
+					<!-- <div class="sm-circles">
+					<a href="https://www.tiktok.com/@imranqureshipsp?t=8nZWinpfWJ6&r=1" target="_blank"><i class="mt-2 fa-brands fa-tiktok text-dark"></i></a>
+					</div> -->
+					<div class="sm-circles">
+					<a href="https://www.whatsapp.com/channel/0029VaeZDIK72WU0RrIKlP0r" target="_blank"><i class="mt-2 fa-brands fa-whatsapp text-success"></i></a>
+					</div>
+				<!-- Social Media Circles Ends -->
+				</div>
+				<!-- Navigation Menu Ends -->
+			</div>
+			<!-- Contact Info Starts -->
+			<div class="col-md-3 contact-info">
+								<p><i class="fa-solid fa-location-dot me-3"></i> DIGP Traffic Office,  Aga Khan III Road, Karachi, Police Headquarter Garden, South Karachi</p>
+				<p><i class="fa-solid fa-phone me-3"></i>  0219-9216355</p>
+				<p><i class="fa-solid fa-envelope me-3"></i>  trafficpolicekhi@gmail.com</p>
+							</div>
+			<!-- Contact Info Ends -->
+		</div>
+	</div>
+</footer>
+<!-- Scroll Top -->
+  <!-- <a href="#" id="scroll-top" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a> -->
+
+  <!-- Preloader -->
+  <!-- <div id="preloader"></div> -->        <div class="container-fluid credit-section">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-6">
+				<p class="text-white mt-3 fw-light">© 2024 Sindh Police - All Rights Reserved.</p>
+			</div>
+			<div class="col-md-6">
+				<p class="text-end text-white mt-3 fw-light">Powered By: Software Section, I.T Directorate Sindh, Sindh Police.</p>
+			</div>
+		</div>
+	</div>
+</div>	<!-- Scroll Top -->
+	<a href="https://sindhpolice.gov.pk/khitraffic#" id="scroll-top" class="scroll-top d-flex align-items-center justify-content-center active"><i class="bi bi-arrow-up-short"></i></a>
+
+<!-- Preloader -->
+
+
+<!-- Vendor JS Files -->
+<script src="./NewsImg3_files/bootstrap.bundle.min.js.download"></script>
+<script src="./NewsImg3_files/aos.js.download"></script>
+<script src="./NewsImg3_files/glightbox.min.js.download"></script>
+<script src="./NewsImg3_files/purecounter_vanilla.js.download"></script>
+<script src="./NewsImg3_files/imagesloaded.pkgd.min.js.download"></script>
+<script src="./NewsImg3_files/isotope.pkgd.min.js.download"></script>
+<script src="./NewsImg3_files/swiper-bundle.min.js.download"></script>
+
+<!-- Main JS File -->
+<script src="./NewsImg3_files/main.js.download"></script>
+
+	<script defer="" src="./NewsImg3_files/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon="{&quot;version&quot;:&quot;2024.11.0&quot;,&quot;token&quot;:&quot;69a9b25c602f484fb8cbdf603dcdbdf6&quot;,&quot;server_timing&quot;:{&quot;name&quot;:{&quot;cfCacheStatus&quot;:true,&quot;cfEdge&quot;:true,&quot;cfExtPri&quot;:true,&quot;cfL4&quot;:true,&quot;cfOrigin&quot;:true,&quot;cfSpeedBrain&quot;:true},&quot;location_startswith&quot;:null}}" crossorigin="anonymous"></script>
+
+
+</body></html>
