@@ -1,13 +1,17 @@
 import React, { useState, useEffect } from 'react'
+import HeroImg1 from '../assets/HeroImg1.jpg'
+import HeroImg2 from '../assets/HeroImg2.jpg'
+import HeroImg3 from '../assets/HeroImg3.jpg'
+import HeroImg4 from '../assets/HeroImg4.jpg'
 
 const HeroSection = () => {
   const [currentSlide, setCurrentSlide] = useState(0)
 
   const slides = [
-    '/src/assets/HeroImg1.jpg',
-    '/src/assets/HeroImg2.jpg',
-    '/src/assets/HeroImg3.jpg',
-    '/src/assets/HeroImg4.jpg'
+    HeroImg1,
+    HeroImg2,
+    HeroImg3,
+    HeroImg4,
   ]
 
   useEffect(() => {

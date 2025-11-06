@@ -1,9 +1,9 @@
 import React, { useState } from 'react';
 import { ChevronLeft, ChevronRight } from 'lucide-react';
 import rulesImage from '../assets/rules.jpg';
-import newsImg1 from '../assets/NewsImg3_files/2056683889_6909900d6c0df.jpg';
-import newsImg2 from '../assets/NewsImg3_files/1377489503_69098b812ef98.jpeg';
-import newsImg3 from '../assets/NewsImg3_files/936628030_690a2aff74062.jpeg';
+import newsImg1 from '../assets/NewsImg1.jpg';
+import newsImg2 from '../assets/1377489503_69098b812ef98.jpeg';
+import newsImg3 from '../assets/936628030_690a2aff74062.jpeg';
 
 const LatestNews = () => {
   const [currentSlide, setCurrentSlide] = useState(0);
